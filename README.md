@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**bloomlive/bloomlive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Daniel. Born and raised in Tallinn, Estonia 🇪🇪, currently live in the lovely city of Tartu.
 
-Here are some ideas to get you started:
+Here's a short summary of me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Work as a Senior Fullstack Software Engineer at [Mayven Studios](https://www.mayvenstudios.com)
+- 💻 Laravel (and it's ecosystem) Contributor.
+- 👯 You can connect with me on [LinkedIn](https://www.linkedin.com/in/danielsepp/).
+- 💬 We can talk about [Laravel](https://laravel.com), [Vue](https://vuejs.org/) and interesting new technologies.
+- 🌱 Deeply care about ecological footprint I leave behind.
+- 📫 My inbox is open for any type of enquiries.
+- ⚡ Fun fact: If it has "board" in it, I can ride it. Even Jira.
+- 🐕 My pet's name is [Docker](https://www.docker.com/) and he's a lovely golden retreiver. 
