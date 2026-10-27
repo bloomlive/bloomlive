@@ -4,7 +4,7 @@ I'm Daniel. Born and raised in Tallinn, Estonia 🇪🇪, currently live in the 
 
 Here's a short summary of me:
 
-- 🔭 Work as a Senior Fullstack Software Engineer at [Mayven Studios](https://www.mayvenstudios.com)
+- 🔭 I'm a freelance software engineer, working mostly with Laravel.
 - 💻 [laravel/framework](https://github.com/laravel/framework) core contributor.
 - 👯 You can connect with me on [LinkedIn](https://www.linkedin.com/in/danielsepp/).
 - 💬 We can talk about [Laravel](https://laravel.com), [Vue](https://vuejs.org/) and interesting new technologies.
